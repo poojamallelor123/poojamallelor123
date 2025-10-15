@@ -88,29 +88,6 @@
 
 ---
 
-## 💼 What I'm Currently Working On
-
-```javascript
-const Pooja = {
-    pronouns: "She" | "Her",
-    code: ["JavaScript", "Python", "Java", "C++", "HTML/CSS"],
-    askMeAbout: ["Web Dev", "Tech", "DSA", "UI/UX"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "jQuery"],
-            css: ["Bootstrap", "Tailwind CSS", "Material UI"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-        },
-        databases: ["MySQL", "MongoDB", "PostgreSQL"],
-        misc: ["Git", "REST APIs", "Responsive Design"]
-    },
-    currentFocus: "Building Full Stack Web Applications",
-    funFact: "I think debugging is the best teacher!"
-};
-```
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
@@ -129,16 +106,6 @@ const Pooja = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/poojamallelor123/poojamallelor123/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
