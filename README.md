@@ -74,26 +74,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=poojamallelor123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=poojamallelor123&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojamallelor123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=poojamallelor123&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
